@@ -1,0 +1,14 @@
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\bin\Debug\net9.0\desafioLista.exe
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\bin\Debug\net9.0\desafioLista.deps.json
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\bin\Debug\net9.0\desafioLista.runtimeconfig.json
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\bin\Debug\net9.0\desafioLista.dll
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\bin\Debug\net9.0\desafioLista.pdb
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\desafioLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\desafioLista.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\desafioLista.AssemblyInfo.cs
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\desafioLista.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\desafioLista.dll
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\refint\desafioLista.dll
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\desafioLista.pdb
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\desafioLista.genruntimeconfig.cache
+C:\Users\Carlos\Documents\VS Code\C#\desafioLista\obj\Debug\net9.0\ref\desafioLista.dll
