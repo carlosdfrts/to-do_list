@@ -18,7 +18,7 @@ After you add or remove tasks, they are automatically saved to a text file calle
 ## Files
 • Program.cs: Contains the program's main function, where the user can interact with the provided menu.
 
-• tarefas.txt: The tarefas.txt file is used for storing tasks created by the user. Each line in the file represents a single task.
+• tarefas.txt: This file is used for storing tasks created by the user. Each line in the file represents a single task.
 
 ## Contribution
 
